@@ -1,0 +1,708 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+
+}
+*:hover{
+	border: none;
+	border-style: none;
+}
+.first_section{
+	width: 100%;
+	height: 846px;
+	background: transparent url('../images/style 3.png') 0% 0% no-repeat padding-box;
+	position: relative;
+}
+
+.site_header{
+
+}
+.top_nav_menu{
+position: relative;
+	top: 76px;
+left: 396px;
+width: 351px;
+height: 20px;
+
+background: transparent url('../images/Menu        Package        About us        Contact us-1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.site_name{
+width: 131px;
+height: 55px;
+background: transparent url('../images/Victorya..png') 0% 0% no-repeat padding-box;
+position:absolute;
+top: 57px;
+left: 139px;
+font-size: 25px;
+font-weight: bolder;
+color: #452268;
+
+}
+.intro_text{
+	position: absolute;
+	top: 289px;
+left: 139px;
+width: 699px;
+height: 156px;
+background: transparent url('../images/Good food choices aregood investments..png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.watchOurStory{
+	position: absolute;
+	top: 600px;
+left: 383px;
+width: 167px;
+height: 50px;
+background: transparent url('../images/Watch our story.png') 0% 0% no-repeat padding-box;
+}
+.intro_text_shtText{
+	position: absolute;
+	top: 471px;
+left: 139px;
+width: 700px;
+height: 65px;
+background: transparent url('../images/There is a powerful need for symbolism, and that means the architecture must have something that appeals to the human heart..png') 0% 0% no-repeat padding-box;
+opacity: 0.71;
+}
+.circle{
+	position: absolute;
+	top: 582px;
+left: 561px;
+width: 62px;
+height: 60px;
+background: transparent url('../images/Rectangle 85@2x.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 15px 29px #F98169AD;
+background: #ff8080;
+border-radius: 83px;
+opacity: 1;
+}
+.insideCircle{
+	position: absolute;
+	top: 605px;
+left: 585px;
+width: 33px;
+height: 18px;
+background: transparent url('../images/play.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.order_btn{
+position: absolute;
+top: 577px;
+left: 139px;
+width: 204px;
+height: 70px;
+background: transparent url('../images/Rectangle 84.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.words{
+	position: absolute;
+top: 615px;
+left: 221px;
+width: 100px;
+height: 26px;
+color: white;
+font-size: 30px;
+background: transparent url('img/Order Now@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.second_section{
+	top: 767px;
+left:0;
+width: 100%;
+height: 1871px;
+background: url('../images/lcz9nxhoslo-brooke-lark.png') 0% 0% no-repeat padding-box;
+}
+.this_fistImg{
+	position: absolute;
+top: 895px;
+width: 485px;
+height: 675px;
+left: 109px;
+background: transparent url('../images/jaifv4nk.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 47px 99px #C5C9CB;
+border-radius: 100px 0px;
+opacity: 1;
+}
+.this_words{
+	position:absolute;
+	top: 1004px;
+left: 702px;
+width: 549px;
+height: 143px;
+background: transparent url('../images/The best comfort food will always be greens, cornbread, and fried chicken..png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.this_Short_words{
+position: absolute;
+top: 1177px;
+left: 702px;
+width: 516px;
+height: 111px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam volu.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+
+.btn_knw_more{
+	position: absolute;
+	top: 1338px;
+left: 705px;
+width: 255px;
+height: 70px;
+background: transparent url('../images/Rectangle 89.png') 0% 0% no-repeat padding-box;
+
+opacity:1;
+}
+.btn_knw_more_text{
+	position:absolute;
+	top: 1379px;
+	font-family: sans-serif;
+left: 770px;
+width: 189px;
+color: white;
+height: 26px;
+
+background: transparent url('img/Know More About Us@2x.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.more_exp{
+	position: absolute;
+	top: 1715px;
+left: 109px;
+width: 549px;
+height: 143px;
+background: transparent url('../images/The best comfort food will always be greens, cornbread, and fried chicken..png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.short_moreExp{
+	position: absolute;
+	top: 1888px;
+left: 109px;
+width: 516px;
+height: 111px;
+background: transparent
+ url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam volu.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.img1{
+	position: absolute;
+	top: 1708px;
+left: 754px;
+width: 234px;
+height: 189px;
+transform: matrix(1, 0, 0, 1, 0, 0);
+background: transparent url('../images/a8yt8ici.png') 0% 0% no-repeat padding-box;
+border-radius: 12px;
+opacity: 1;
+}
+.img2{
+	position: absolute;
+	top: 1583px;
+left: 994px;
+width: 308px;
+height: 268px;
+transform: matrix(1, 0, 0, 1, 0, 0);
+background: transparent url('../images/qv3g3gmi.png') 0% 0% no-repeat padding-box;
+border-radius: 12px;
+opacity: 1;
+}
+.img3{
+	position: absolute;
+	top: 1910px;
+left: 684px;
+width: 310px;
+height: 250px;
+transform: matrix(1, 0, 0, 1, 0, 0);
+background: transparent url('../images/2mou6w3x.png') 0% 0% no-repeat padding-box;
+border-radius: 12px;
+opacity: 1;
+}
+.img4{
+	position: absolute;
+	top: 1861px;
+left: 1003px;
+width: 234px;
+height: 194px;
+transform: matrix(1, 0, 0, 1, 0, 0);
+background: transparent url('../images/o9kwrr26.png') 0% 0% no-repeat padding-box;
+border-radius: 12px;
+opacity: 1;
+}
+.btn_knw_more_about{
+	position: absolute;
+	top: 2049px;
+left: 112px;
+width: 255px;
+height: 70px;
+background: transparent url('../images/Rectangle 90.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.btn_knw_more_aboutTxt{
+	position: absolute;
+	top: 2086px;
+left: 165px;
+width: 189px;
+height: 26px;
+background: transparent url('../images/Know More About Us.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.big_img{
+	position: absolute;
+	top: 2282px;
+left: 152px;
+width: 1063px;
+height: 457px;
+background: transparent url('../images/zv0lvbep.png') 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: .6;
+
+}
+.big_img_headText{
+	position: absolute;
+	top: 2367px;
+left: 264px;
+width: 835px;
+height: 102px;
+background: transparent url("../images/When a man's stomach is full it makes no difference whether he is rich or poor..png") 0% 0% no-repeat padding-box;
+opacity: 1;
+
+
+
+}
+.short_words{
+	position: absolute;
+	top: 2482px;
+left: 393px;
+width: 577px;
+height: 62px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna..png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.this_play{
+	position: absolute;
+	top: 2578px;
+left: 643px;
+width: 72px;
+height: 70px;
+background: transparent url('../images/Rectangle 94.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px -1px 32px #F27777D1;
+border: 3px solid #FFFFFF;
+border-radius: 83px;
+opacity: 1;
+}
+.this_playPLAY{
+	position: absolute;
+	top: 2603px;
+left: 671px;
+width: 46px;
+height: 25px;
+background: transparent url('../images/play.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.explore{
+	position: absolute;
+	top: 2832px;
+left: 501px;
+width: 364px;
+height: 53px;
+background: transparent url('../images/Explore Our Foods.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.explore_txt{
+	position: absolute;
+	top: 2915px;
+left: 395px;
+width: 577px;
+height: 62px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna.-1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.food1{
+	position: absolute;
+	top: 3007px;
+left: 168px;
+width: 322px;
+height: 363px;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+background: transparent url('../images/Rectangle 93.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 17px 16px #EBF1F58C;
+border-radius: 13px;
+opacity: 1;
+}
+.foodImg1{
+	position: absolute;
+	top: 3007px;
+left: 168px;
+width: 322px;
+height: 225px;
+background: transparent url('../images/qv3g3gmi@2x.png') 0% 0% no-repeat padding-box;
+border-radius: 13px 13px 0px 0px;
+opacity: 1;
+}
+.foodName1{
+	position: absolute;
+	top: 3259px;
+left: 188px;
+width: 220px;
+height: 23px;
+background: transparent url('../images/Ham Sandwich.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodPrice1{
+position: absolute;
+top: 3253px;
+left: 374px;
+width: 89px;
+height: 35px;
+background: transparent url('../images/$10.50.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodDesc1{
+	position: absolute;
+	top: 3296px;
+left: 188px;
+width: 268px;
+height: 48px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr,.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.food2{
+	position: absolute;
+	top: 3007px;
+left: 522px;
+width: 322px;
+height: 363px;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+background: transparent url('../images/Rectangle 95.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 17px 16px #EBF1F58C;
+border-radius: 13px;
+opacity: 1;
+}
+.foodImg2{
+	position: absolute;
+	top: 3007px;
+left: 522px;
+width: 322px;
+height: 225px;
+background: transparent url('../images/an_vision-1188492-unsplash.png') 0% 0% no-repeat padding-box;
+border-radius: 13px 13px 0px 0px;
+opacity: 1;
+}
+.foodName2{
+	position: absolute;
+	top: 3263px;
+left: 542px;
+width: 220px;
+height: 18px;
+background: transparent url('../images/Ham Sandwich.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodPrice2{
+	position: absolute;
+	top: 3253px;
+left: 727px;
+width: 90px;
+height: 35px;
+background: transparent url('../images/$10.50.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodDesc2{
+	position: absolute;
+	top: 3301px;
+left: 542px;
+width: 270px;
+height: 48px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.food3{
+	position: absolute;
+	top: 3007px;
+left: 877px;
+width: 322px;
+height: 363px;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+background: transparent url('../images/Rectangle 97.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 17px 16px #EBF1F58C;
+border-radius: 13px;
+opacity: 1;
+}
+.foodImg3{
+	position: absolute;
+	top: 3007px;
+left: 877px;
+width: 322px;
+height: 225px;
+background: transparent url('../images/7es93lms.png') 0% 0% no-repeat padding-box;
+border-radius: 13px 13px 0px 0px;
+opacity: 1;
+}
+.foodName3{
+	position: absolute;
+	top: 3259px;
+left: 897px;
+width: 220px;
+height: 23px;
+background: transparent url('../images/Ham Sandwich.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.foodPrice3{
+	position: absolute;
+	top: 3253px;
+left: 1080px;
+width: 92px;
+height: 35px;
+background: transparent url('../images/$10.50.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodDesc3{
+	position: absolute;
+	top: 3296px;
+left: 897px;
+width: 275px;
+height: 48px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr,.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.food4{
+	position: absolute;
+	top: 3424px;
+left: 168px;
+width: 322px;
+height: 363px;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+background: transparent url('../images/Rectangle 101.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 17px 16px #EBF1F58C;
+border-radius: 13px;
+}
+.foodImg4{
+	position: absolute;
+	top: 3424px;
+left: 168px;
+width: 322px;
+height: 225px;
+background: transparent url('../images/suts9k7v.png') 0% 0% no-repeat padding-box;
+border-radius: 13px 13px 0px 0px;
+opacity: 1;
+
+}
+.foodName4{
+	position: absolute;
+	top: 3678px;
+left: 188px;
+width: 220px;
+height: 24px;
+background: transparent url('../images/Ham Sandwich.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodPrice4{
+	position: absolute;
+	top: 3678px;
+left: 374px;
+width: 89px;
+height: 35px;
+background: transparent url('../images/$10.50.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodDesc4{
+	position: absolute;
+	top: 3713px;
+left: 188px;
+width: 289px;
+height: 52px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.food5{
+	position: absolute;
+	top: 3424px;
+left: 522px;
+width: 322px;
+height: 363px;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+background: transparent url('../images/Rectangle 100.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 17px 16px #EBF1F58C;
+border-radius: 13px;
+opacity: 1;
+}
+.foodImg5{
+	position: absolute;
+	top: 3424px;
+left: 522px;
+width: 322px;
+height: 225px;
+background: transparent url('../images/p9eh9haz.png') 0% 0% no-repeat padding-box;
+border-radius: 13px 13px 0px 0px;
+opacity: 1;
+}
+.foodName5{
+	position: absolute;
+	top: 3678px;
+left: 542px;
+width: 220px;
+height: 24px;
+background: transparent url('../images/Ham Sandwich.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.foodPrice5{
+	position: absolute;
+	top: 3678px;
+left: 721px;
+width: 96px;
+height: 35px;
+background: transparent url('../images/$10.50.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.foodDesc5{
+	position: absolute;
+	top: 3713px;
+left: 542px;
+width: 275px;
+height: 52px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.food6{
+	position: absolute;
+	top: 3424px;
+left: 877px;
+width: 322px;
+height: 363px;
+transform: matrix(-1, 0, 0, -1, 0, 0);
+background: transparent url('../images/Rectangle 99.png') 0% 0% no-repeat padding-box;
+box-shadow: 0px 17px 16px #EBF1F58C;
+border-radius: 13px;
+}
+.foodImg6{
+	position: absolute;
+	top: 3424px;
+left: 877px;
+width: 322px;
+height: 225px;
+background: transparent url('../images/aiu45f8t.png') 0% 0% no-repeat padding-box;
+border-radius: 13px 13px 0px 0px;
+opacity: 1;
+}
+.foodName6{
+	position: absolute;
+	top: 3678px;
+left: 897px;
+width: 220px;
+height: 24px;
+background: transparent url('../images/Ham Sandwich.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.foodPrice6{
+	position: absolute;
+	top: 3672px;
+left: 1080px;
+width: 92px;
+height: 30px;
+background: transparent url('../images/$10.50.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.foodDesc6{
+	position: absolute;
+	top: 3713px;
+left: 897px;
+width: 289px;
+height: 52px;
+background: transparent url('../images/Lorem ipsum dolor sit amet, consetetur sadipscing elitr,.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+
+.ExploreAllFood{
+	position: absolute;
+	top: 3869px;
+left: 556px;
+width: 255px;
+height: 70px;
+background: transparent 
+url('../images/Rectangle 107.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.ExploreAllFoodTxt{
+	position: absolute;
+	top: 3910px;
+left: 641px;
+width: 145px;
+height: 26px;
+background:  url('../images/Explore all food.png') 0% 0% 
+no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+}
+.popularRecipes{
+	position: absolute;
+	top: 4037px;
+left: -28.592529296875px;
+width: 1453px;
+height: 449px;
+background: transparent url('../images/Group 103.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.update{
+	position: absolute;
+	top: 4364px;
+left: -28.592529296875px;
+width: 1406px;
+height: 734px;
+background: transparent url('../images/Group 104.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.victorya{
+	position: absolute;
+	top: 5192px;
+left: 176px;
+width: 131px;
+height: 55px;
+background: transparent url('../images/Victorya..png') 0% 0% no-repeat padding-box;
+opacity: 0.78;
+}
+.footer_nav{
+	position: absolute;
+	top: 5211px;
+left: 368px;
+width: 351px;
+height: 20px;
+background: transparent url('../images/Menu        Package        About us        Contact us-1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.footer_links{
+	position: absolute;
+	top: 5287px;
+left: 176px;
+width: 178px;
+height: 22px;
+background: transparent url('../images/.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+
+}
+.copyright{
+	position: absolute;
+	top: 5385px;
+left: 147px;
+width: 382px;
+height: 20px;
+background: transparent url('../images/Copyright©Arifur Rahman, 2019. All rights reserved.png') 0% 0% no-repeat padding-box;
+opacity: 0.6;
+margin-bottom: 20px;
+
+}
